@@ -1,0 +1,3 @@
+streamlit
+generativeai
+google.generativeai
